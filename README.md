@@ -77,8 +77,7 @@ ml을 활용한 자바스크립트 언어를 사용하여 만든 게임
 
 ##### 6. 참고문헌 및 자료
 ```
-[Youtube] (https://www.youtube.com/watch?v=9z9mbiOZqSs&t=799s, "youtube")
-
+[Youtube] <https://www.youtube.com/watch?v=9z9mbiOZqSs&t=799s/>
 ```
 
 
