@@ -1,4 +1,5 @@
-# Shotting-motion
+#  과제명 : Shotting-motion
+## 팀명 : 1팀
 
 | 이름  | 학과  | 학년  | 학번 |
 |---|---|---|---|
