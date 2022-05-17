@@ -59,9 +59,13 @@
 ```
 ml을 활용한 자바스크립트 언어를 사용하여 만든 게임
 ```
-
+* 캐릭터를 왼쪽으로 이동시킬 때 쓰이는 모션
 ![왼족](https://user-images.githubusercontent.com/62560931/168778113-a3c04569-5f1a-49c1-b299-de6b18e8d79e.PNG)
+
+* 캐릭터를 오른쪽으로 이동시킬때 쓰이는 모션
 ![오른쪽](https://user-images.githubusercontent.com/62560931/168778122-6084e410-ea2a-4014-9c71-9cbe480202b3.PNG)
+
+* 슈팅 게임화면
 ![슈팅모션](https://user-images.githubusercontent.com/62560931/168778135-7b5d3ce8-44f3-4c00-9376-3cb2dbbb66a3.PNG)
 
 
