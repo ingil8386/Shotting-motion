@@ -58,21 +58,13 @@
 4.1. 예상 결과물
 ```
 ml을 활용한 자바스크립트 언어를 사용하여 만든 게임
-
-![왼족](https://user-images.githubusercontent.com/62560931/168777928-0168e094-e967-488f-90ee-b4557b3ecd90.PNG)
-![오른쪽](https://user-images.githubusercontent.com/62560931/168777939-b674e2c8-3ff0-4f3c-bce3-ce26b3df29f9.PNG)
-![오른쪽](https://user-images.githubusercontent.com/62560931/168777946-14de1faf-5e21-41e7-952a-c0657a833417.PNG)
-![왼족](https://user-images.githubusercontent.com/62560931/168777949-f361682c-4ebf-4895-bd81-e40d28a8b666.PNG)
-
-
-![슈팅모션](https://user-images.githubusercontent.com/62560931/168777973-42c387ca-7b81-4e76-bc83-bc8e2d838369.PNG)
-
-
-
-
-
-
 ```
+
+![왼족](https://user-images.githubusercontent.com/62560931/168778113-a3c04569-5f1a-49c1-b299-de6b18e8d79e.PNG)
+![오른쪽](https://user-images.githubusercontent.com/62560931/168778122-6084e410-ea2a-4014-9c71-9cbe480202b3.PNG)
+![슈팅모션](https://user-images.githubusercontent.com/62560931/168778135-7b5d3ce8-44f3-4c00-9376-3cb2dbbb66a3.PNG)
+
+
 4.2. 기대효과 및 활용방안
 ```
 게임뿐만 아니라 다양한 분야에서 적용 시킬 수 있으며, 학습시킨 데이터로 결과물의 정확성을 높이는 기대를 해볼 수 있습니다. 
